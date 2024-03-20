@@ -1,0 +1,390 @@
+BE-BORN
+It mentions someone's birthplace.
+Someone was born.
+
+MARRY
+They are married.
+They were married.
+They have been married.
+Someone is married.
+Someone has been married.
+Someone married someone.
+It mentions the marriage.
+It mentions marriages.
+
+DIVORCE
+They divorced.
+Someone is divorced.
+Someone was divorced.
+Someone divorced.
+It mentions someone's divorce.
+It mentions divorce.
+
+INJURE
+Someone was injured.
+Someone was disabled.
+Some people were injured.
+Some people were disabled.
+Someone is injured.
+Someone is disabled.
+Some people are injured.
+Some people are disabled.
+
+DIE
+Some people were dead.
+Someone was dead.
+Some people were killed.
+Someone was killed.
+Some people were assassinated.
+Someone was assassinated.
+Some people were slain.
+Someone was slain.
+Someone attempted to kill people.
+Some people attempted to kill people.
+Someone attempted to kill a person.
+Some people attempted to kill a person.
+
+TRANSPORT
+Someone goes from a place to another.
+Someone attempted to go to somewhere.
+Some people attempted to go to somewhere.
+Some people go from a place to another.
+Someone was moved from a place to another.
+Someone was transported. 
+Something was moved from a place to another.
+Something was moved.
+Something was transported. 
+Someone traveled to somewhere.
+Someone planned a trip.
+Some people were moved.
+Some people were transported. 
+Some people planned a trip.
+
+TRANSFER-OWNERSHIP
+Someone attempted to purchase something.
+Someone attempted to buy something.
+Someone attempted to sell something.
+Some people attempted to purchase something.
+Some people attempted to buy something.
+Some people attempted to sell something.
+A country attempted to purchase something.
+A country attempted to buy something.
+A country attempted to sell something.
+Some countries attempted to purchase something.
+Some countries attempted to buy something.
+Some countries attempted to sell something.
+A company attempted to purchase something.
+A company attempted to buy something.
+A company attempted to sell something.
+Some companies attempted to purchase something.
+Some companies attempted to buy something.
+Some companies attempted to sell something.
+An organization attempted to purchase something.
+An organization attempted to buy something.
+An organization attempted to sell something.
+Some organizations attempted to purchase something.
+Some organizations attempted to buy something.
+Some organizations attempted to sell something.
+Someone attempted to purchase something.
+Someone attempted to buy something.
+Someone attempted to sell something.
+Some people attempted to purchase something.
+Some people attempted to buy something.
+Some people attempted to sell something.
+A country attempted to purchase something.
+A country attempted to buy something.
+A country attempted to sell something.
+Some countries attempted to purchase something.
+Some countries attempted to buy something.
+Some countries attempted to sell something.
+A company attempted to purchase something.
+A company attempted to buy something.
+A company attempted to sell something.
+Some companies attempted to purchase something.
+Some companies attempted to buy something.
+Some companies attempted to sell something.
+An organization attempted to purchase something.
+An organization attempted to buy something.
+An organization attempted to sell something.
+Some organizations attempted to purchase something.
+Some organizations attempted to buy something.
+Some organizations attempted to sell something.
+
+TRANSFER-MONEY
+It mentions giving money. 
+It mentions paying money. 
+It mentions costing money. 
+It mentions getting money from an organization. 
+Someone donated money to an organization.
+Someone lent money. 
+Someone borrowed money. 
+Someone received a donation.
+Someone paid money.
+Some people donated money to an organization.
+Some people lent money. 
+Some people borrowed money. 
+Some people received a donation.
+Some people paid money.
+A company gave money to a company.
+A company gave money to companies.
+A company gave money to an organization.
+A company donated money.
+A company lent money. 
+A company borrowed money. 
+A company received a donation.
+A company paid money. 
+Companies gave money to a company.
+Companies gave money to companies.
+Companies gave money to an organization.
+Companies donated money.
+Companies lent money. 
+Companies borrowed money. 
+Companies received a donation.
+Companies paid money. 
+An organization gave money to a company.
+An organization gave money to companies.
+An organization gave money to an organization.
+An organization gave money to organizations.
+An organization donated money.
+An organization lent money. 
+An organization borrowed money. 
+An organization received a donation.
+An organization paid money.
+Organizations gave money to a company.
+Organizations gave money to companies.
+Organizations gave money to an organization.
+Organizations donated money.
+Organizations lent money. 
+Organizations borrowed money. 
+Organizations received a donation.
+Organizations paid money.
+
+START-ORG
+An organization opened new branch office.
+An organization was created.
+An organization was founded.
+An organization was built.
+An organization was established. 
+An organization will be created.
+An organization will be founded.
+An organization will be built.
+An organization will be established. 
+Someone created an organization.
+Someone founded an organization.
+Someone built an organization.
+Someone established an organization.
+
+MERGE-ORG
+Some organizations were merged.
+Some organizations were merged to a new organization.
+It mentions organization merger. 
+It mentions organization consolidation.
+
+DECLARE-BANKRUPTCY
+An organization will go bankrupt
+An organization was bankrupt.
+An organization went bankrupt.
+An organization declared bankrupt.
+An organization applied for bankruptcy.
+An organization filed for bankruptcy.
+
+END-ORG
+An organization went out of business.
+An organization folded.
+An organization was closed.
+
+ATTACK
+It mentions explosion. 
+It mentions shooting. 
+It mentions attack. 
+It mentions conflict. 
+It mentions fighting. 
+It mentions coup. 
+It mentions gunfight. 
+It mentions battle. 
+It mentions war. 
+It mentions invasion. 
+Someone attempted to blow up a place. 
+Someone attacked someone else.
+Someone committed a crime.
+Someone attempts to blow up a place. 
+Someone attacks someone else.
+Someone commits a crime.
+Someone was attacked.
+Someone was shot.
+A coup was launched.
+A place was bombed.
+A place was attacked.
+An organization was attacked.
+An organization was bombed.
+
+DEMONSTRATE
+It mentions demonstration.
+It mentions riot.
+It mentions protest.
+It mentions strike.
+Many people rioted.
+Many people demonstrated.
+Many people went on strike.
+Many people protested.
+An organization rioted.
+An organization demonstrated. 
+An organization went on strike.
+An organization protested.
+
+MEET
+It mentions face-to-face talks.
+It mentions summits.
+It mentions conferences.
+It mentions meetings.
+It mentions visits.
+Some people had a meeting.
+Some people attended the meeting.
+Some people held a summit.
+Someone had a interview.
+Some organizations had a meeting.
+Some organizations had a summit.
+Some organizations attended the meeting.
+Some organizations had a interview.
+Some organizations had a talk.
+
+PHONE-WRITE
+Someone called someone else on the phone.
+Someone sent e-mail to others.
+Someone texted someone else.
+Someone sent a phone message to someone else.
+
+START-POSITION
+Someone was employed.
+Someone took office.
+Someone was hired.
+Someone started his term of office.
+Someone was appointed.
+Someone appointed someone.
+Someone began to work for an organization.
+An organization hired someone.
+An organization appointed someone.
+Someone began to work for a company.
+A company hired someone.
+A company appointed someone.
+
+END-POSITION
+Someone retired.
+Someone lost his job.
+Someone was laid off.
+Someone ended his term.
+A company dismissed someone.
+A company laid off someone.
+It mentions someone’s former position.
+
+NOMINATE
+It mentions nomination.
+Someone was nominated.
+Someone was nominated for a position.
+Someone nominated someone for a position.
+Someone nominated someone for a job.
+
+ELECT
+It mentions election.
+Someone is elected.
+Someone was elected as a position.
+A candidate is elected as a position.
+Someone was voted for a position.
+Some people elected someone as a position
+Some people voted for someone.
+
+ARREST-JAIL
+Someone was arrested.
+Someone was imprisoned.
+Someone was jailed.
+Someone was in prison.
+Someone was under house arrest.
+Someone was detained.
+Someone served his sentence.
+
+RELEASE-PAROLE
+Someone was released from jail.
+Someone was released form court.
+Someone was released on parole.
+Someone was set free.
+Someone has served his sentence.
+Someone's charge was dropped.
+Someone was released on bail.
+
+TRIAL-HEARING
+Someone was on a trial.
+Someone was tried at the hearing.
+An organization was tried.
+An organization was tried at the hearing.
+A company was tried.
+A company was tried at the hearing.
+
+CHARGE-INDICT
+Someone was charged.
+Someone was indicted.
+An organization was charged.
+An organization was indicted.
+A company was charged.
+A company was indicted.
+
+SUE
+Someone was sued.
+An organization was sued.
+A company was sued.
+It mentions suit.
+
+CONVICT
+It mentions conviction.
+Someone was convicted.
+Someone pleaded guilty.
+An organization was convicted.
+An organization pleaded guilty.
+A company was convicted.
+A company pleaded guilty.
+
+SENTENCE
+It mentions sentencing.
+Someone was sentenced.
+An organization was sentenced.
+A company was sentenced.
+
+FINE
+Someone was fined.
+An organization was fined.
+An organization was financially punished.
+A company was fined.
+A company was financially punished.
+
+EXECUTE
+It mentions execution.
+Someone was executed.
+
+EXTRADITE
+It mentions extradition.
+Someone was extradited.
+Someone was extradited to a place.
+Someone was extradited from one place to another.
+
+ACQUIT
+It mentions acquittal.
+Someone was acquitted.
+Someone was set free with a verdict of “not guilty”.
+
+PARDON
+It mentions pardon.
+Someone was pardoned.
+Someone will be pardoned.
+Someone was relieved of his sentence.
+The leader of a country pardoned someone.
+An organization pardoned someone.
+A judicial organ pardoned someone.
+
+APPEAL
+It mentions appeal against a legal decision.
+Someone appealed against a legal decision.
+Someone attempted to appeal against a legal decision.
+An organization appealed against a legal decision.
+An organization will appeal against a legal decision.
+An organization attempted to appeal against a legal decision.
+A company appealed against a legal decision.
+A company attempted to appeal against a legal decision.
