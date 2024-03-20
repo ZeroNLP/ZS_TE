@@ -24,7 +24,7 @@ Install the necessary packages with:
 $ pip install -r requirements.txt
 ```
 ## Data
-Related data sources can be downloaded from [Google Drive](https://drive.google.com/drive/folders/15Xh-DqGsXySMx-mkjgZcPaXhp0uQlnLg?usp=sharing).
+Related data resources can be downloaded from [Google Drive](https://drive.google.com/drive/folders/15Xh-DqGsXySMx-mkjgZcPaXhp0uQlnLg?usp=sharing).
 
 ## Usage
 
