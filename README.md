@@ -5,13 +5,13 @@ Source code for LREC-COLING 2024 paper titled "[Zero-shot Event Detection using 
   <img src="./concept_figure.png" width="40%"/>
 </div>
 
-Figure 1: The illustration of the difference between a textual entailment model as a frozen annotator and an enhanced annotator.
+**Figure 1:** The illustration of the difference between a textual entailment model as a frozen annotator and an enhanced annotator.
 
 <div align="center">
   <img src="./workflow.png" width="50%"/>
 </div>
 
-Figure 2: The general workflow of using a pre-trained TE model and keyword expansion to annotate unlabeled data.
+**Figure 2:** The general workflow of using a pre-trained TE model and keyword expansion to annotate unlabeled data.
 
 - We propose to use a TE(Textual Entailment) model to annotate large-scale unlabeled text and use annotated data to finetune the TE model, yielding an improved TE model.
 - We propose to use keywords to filter out sentences with a low probability of expressing event(s).
@@ -34,6 +34,8 @@ $ pip install -r requirements.txt
 
 ​	```python fine_tune.py```
 
+
+
 - To do the event detection task
 
 ​	```cd ZS_TE/predict_event```
@@ -41,6 +43,8 @@ $ pip install -r requirements.txt
 ​	You may modify the  arguments in ```pred(smoothing).py```
 
 ​	```python pred(smoothing).py```
+
+
 
 - To do the trigger classification task
 
