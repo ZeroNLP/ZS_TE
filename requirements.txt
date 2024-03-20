@@ -1,0 +1,7 @@
+datasets==2.16.1
+json
+numpy==1.26.2
+pickle
+torch==2.0.1
+tqdm
+transformers==4.30.2
