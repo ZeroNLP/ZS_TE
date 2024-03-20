@@ -2,7 +2,7 @@
 
 Source code for LREC-COLING 2024 paper titled "[Zero-shot Event Detection using a Textual Entailment Model as an Enhanced Annotator]()".
 
-<img src="./concept_figure.png" style="zoom:30 %;" />
+<img src="./concept_figure.png" width="40%"/>
 
 Figure 1: The illustration of the difference between a textual entailment model as a frozen annotator and an enhanced annotator.
 
