@@ -1,10 +1,14 @@
 # Zero-shot Event Detection using a Textual Entailment Model as an Enhanced Annotator
 
-Source code for LREC-COLING 2024 paper titled "[Zero-shot Event Detection using a Textual Entailment Model as an Enhanced Annotator]()" .
+Source code for LREC-COLING 2024 paper titled "[Zero-shot Event Detection using a Textual Entailment Model as an Enhanced Annotator]()".
 
 ![](./workflow.png)
 
-Figure: The general workflow of using a pre-trained TE model and keyword expansion to annotate unlabeled data.
+Figure 1: The illustration of the difference between a textual entailment model as a frozen annotator and an enhanced annotator.
+
+![](./workflow.png)
+
+Figure 2: The general workflow of using a pre-trained TE model and keyword expansion to annotate unlabeled data.
 
 - We propose to use a TE(Textual Entailment) model to annotate large-scale unlabeled text and use annotated data to finetune the TE model, yielding an improved TE model.
 - We propose to use keywords to filter out sentences with a low probability of expressing event(s).
