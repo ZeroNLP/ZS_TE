@@ -23,33 +23,35 @@ Install the necessary packages with:
 ```
 $ pip install -r requirements.txt
 ```
+## Data
+Related data sources can be downloaded from [Google Drive](https://drive.google.com/drive/folders/15Xh-DqGsXySMx-mkjgZcPaXhp0uQlnLg?usp=sharing).
 
 ## Usage
 
 - To finetune the TE model 
 
-​	```cd ZS_TE/train_te_model```
-
-​	You may modify the  arguments in ```fine_tune.py```
-
-​	```python fine_tune.py```
+  ​	```cd ZS_TE/train_te_model```
+  
+  ​	You may modify the  arguments in ```fine_tune.py```
+  
+  ​	```python fine_tune.py```
 
 
 
 - To do the event detection task
 
-​	```cd ZS_TE/predict_event```
-
-​	You may modify the  arguments in ```pred(smoothing).py```
-
-​	```python pred(smoothing).py```
+  ​	```cd ZS_TE/predict_event```
+  
+  ​	You may modify the  arguments in ```pred(smoothing).py```
+  
+  ​	```python pred(smoothing).py```
 
 
 
 - To do the trigger classification task
-
-​	```cd ZS_TE/bert_classification```
-
-​	You may modify the  arguments in ```bert_c.py``` and  ```dataset.py```
-
-​	```python bert_c.py```
+  
+  ​	```cd ZS_TE/bert_classification```
+  
+  ​	You may modify the  arguments in ```bert_c.py``` and  ```dataset.py```
+  
+  ​	```python bert_c.py```
