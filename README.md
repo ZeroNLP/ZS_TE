@@ -1,6 +1,6 @@
 # Zero-shot Event Detection using a Textual Entailment Model as an Enhanced Annotator
 
-Source code for LREC-COLING 2024 paper titled "[Zero-shot Event Detection using a Textual Entailment Model as an Enhanced Annotator]()".
+Source code for LREC-COLING 2024 paper titled "[Zero-shot Event Detection using a Textual Entailment Model as an Enhanced Annotator](https://aclanthology.org/2024.lrec-main.1552/)".
 <div align="center">
   <img src="./concept_figure.png" width="40%"/>
 </div>
